@@ -1,0 +1,12 @@
+C:\Users\peyman\source\repos\api1\TaavSchool.Entitis\bin\Debug\net8.0\TaavSchool.Entitis.deps.json
+C:\Users\peyman\source\repos\api1\TaavSchool.Entitis\bin\Debug\net8.0\TaavSchool.Entitis.dll
+C:\Users\peyman\source\repos\api1\TaavSchool.Entitis\bin\Debug\net8.0\TaavSchool.Entitis.pdb
+C:\Users\peyman\source\repos\api1\TaavSchool.Entitis\obj\Debug\net8.0\TaavSchool.Entitis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peyman\source\repos\api1\TaavSchool.Entitis\obj\Debug\net8.0\TaavSchool.Entitis.AssemblyInfoInputs.cache
+C:\Users\peyman\source\repos\api1\TaavSchool.Entitis\obj\Debug\net8.0\TaavSchool.Entitis.AssemblyInfo.cs
+C:\Users\peyman\source\repos\api1\TaavSchool.Entitis\obj\Debug\net8.0\TaavSchool.Entitis.csproj.CoreCompileInputs.cache
+C:\Users\peyman\source\repos\api1\TaavSchool.Entitis\obj\Debug\net8.0\TaavSchool.Entitis.sourcelink.json
+C:\Users\peyman\source\repos\api1\TaavSchool.Entitis\obj\Debug\net8.0\TaavSchool.Entitis.dll
+C:\Users\peyman\source\repos\api1\TaavSchool.Entitis\obj\Debug\net8.0\refint\TaavSchool.Entitis.dll
+C:\Users\peyman\source\repos\api1\TaavSchool.Entitis\obj\Debug\net8.0\TaavSchool.Entitis.pdb
+C:\Users\peyman\source\repos\api1\TaavSchool.Entitis\obj\Debug\net8.0\ref\TaavSchool.Entitis.dll
